@@ -1,0 +1,9 @@
+{
+    "request_timeout": 10,
+    "request_delay": 2,
+    "max_retries": 3,
+    "retry_delay": 3,
+    "user_agent": "NewsPulseBot/1.0",
+    "default_output": "json",
+    "log_level": "INFO"
+}
